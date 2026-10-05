@@ -1,6 +1,6 @@
 👋 Hola, soc en Marc
 
-🌐 {"fallbackMarkdown":"marcgrabalosa.cat","reference":{"matched_text":"","prefix":null,"start_idx":162,"end_idx":216,"safe_urls":[],"refs":[],"alt":"marcgrabalosa.cat","prompt_text":"marcgrabalosa.cat","type":"url","layout":null,"logo":null,"item":{"title":"marcgrabalosa.cat","url":"https://www.marcgrabalosa.cat/?utm_source=chatgpt.com","attribution":"marcgrabalosa.cat","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"title":"marcgrabalosa.cat"},"showLoginRequiredCard":false}
+🌐 [marcgrabalosa.cat](https://www.marcgrabalosa.cat/)
 
 Benvingut/da al meu perfil de GitHub!
 
